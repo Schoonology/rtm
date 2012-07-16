@@ -1,0 +1,21 @@
+{
+    "name": "rtm",
+    "version": "0.1.0",
+    "description": "A module for interacting with Remember The Milk's REST API.",
+    "main": "index.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "test": "mocha --reporter spec"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://Schoonology@bitbucket.org/Schoonology/rtm.git"
+    },
+    "dependencies": {
+        "request": "",
+        "Q": "",
+        "lodash": ""
+    }
+}
