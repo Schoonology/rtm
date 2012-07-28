@@ -1,7 +1,7 @@
 {
     "name": "rtm",
     "version": "0.1.0",
-    "description": "A module for interacting with Remember The Milk's REST API.",
+    "description": "A client implementation for the Remember The Milk API.",
     "main": "index.js",
     "directories": {
         "test": "test"
