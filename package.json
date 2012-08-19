@@ -15,8 +15,8 @@
     },
     "dependencies": {
         "request": "",
-        "Q": "",
-        "lodash": ""
+        "lodash": "",
+        "open": ""
     },
     "devDependencies": {
         "chai": ""
